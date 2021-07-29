@@ -1,3 +1,18 @@
 .color-scle{
     filter: grayscale(100%);
 }
+.background-spaicy{
+    background: #264653;
+}
+.button-customs{
+    background-image: linear-gradient(to bottom, #E76F51 0%, #E76F51 100%);
+}
+.nav-custom{
+    background: #264653;
+}
+.text-customs{
+    color: #E76F51;
+}
+.margin-customs{
+    margin-bottom: 10%;
+}
